@@ -1,4 +1,4 @@
-package za.co.experiacollab.spring_boot_library;
+package za.co.experiacollab.springbootlibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package za.co.experiacollab.spring_boot_library.dao;
+package za.co.experiacollab.springbootlibrary.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import za.co.experiacollab.spring_boot_library.entity.Review;
+import za.co.experiacollab.springbootlibrary.entity.Review;
 
 public interface ReviewRepository extends JpaRepository<Review, Long> {
 }

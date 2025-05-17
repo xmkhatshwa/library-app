@@ -1,4 +1,4 @@
-package za.co.experiacollab.spring_boot_library.entity;
+package za.co.experiacollab.springbootlibrary.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
@@ -13,14 +13,14 @@ public class Message {
     @Column(name = "id")
     private Long id;
 
-    @Column(name="user_email")
-    private String userEmail;
-
     @Column(name="title")
     private String title;
 
     @Column(name="question")
     private String question;
+
+    @Column(name="user_email")
+    private String userEmail;
 
     @Column(name="admin_email")
     private String adminEmail;

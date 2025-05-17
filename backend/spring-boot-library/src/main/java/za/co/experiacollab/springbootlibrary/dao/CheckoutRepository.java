@@ -1,7 +1,7 @@
-package za.co.experiacollab.spring_boot_library.dao;
+package za.co.experiacollab.springbootlibrary.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import za.co.experiacollab.spring_boot_library.entity.Checkout;
+import za.co.experiacollab.springbootlibrary.entity.Checkout;
 
 public interface CheckoutRepository extends JpaRepository<Checkout, Long> {
 }

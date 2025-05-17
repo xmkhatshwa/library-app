@@ -1,4 +1,4 @@
-package za.co.experiacollab.spring_boot_library.entity;
+package za.co.experiacollab.springbootlibrary.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

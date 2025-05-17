@@ -1,4 +1,4 @@
-package za.co.experiacollab.spring_boot_library;
+package za.co.experiacollab.springbootlibrary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
